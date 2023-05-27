@@ -10,7 +10,7 @@ import java.util.ArrayList;
 public class DBConnect {
 	final String url="jdbc:sqlserver://laptop-o36treut;databaseName=GUIdb;encrypt=true;trustServerCertificate=true;";
 	final String user = "sa";
-	final String password = "sqlRabih";
+	final String password = "sqlMesto";
 	Connection con = null;
 	Statement stm = null;
 	
